@@ -16,7 +16,7 @@ A Claude Code plugin that picks the model, effort level and delegation for each 
 
 ## Background
 
-- Run day-to-day operations for a two-firm distribution business (RK Fashion, Surat · RK Studio, Kolkata) serving ~155 retail customers through ~47 brokers
+- Run day-to-day operations for a two-firm distribution business (RK Fashion, Surat · RK Studio, Kolkata) serving ~155 business customers through ~47 brokers
 - Built internal tooling on top of ERPNext and Odoo, plus data pipelines (SchoolKnot → Supabase, BigQuery analytics)
 - Work daily with LLM coding agents (Claude Code, Codex) and build skills, plugins and MCP servers for them
 
@@ -29,4 +29,5 @@ A Claude Code plugin that picks the model, effort level and delegation for each 
 🌐 [cloudaiworkflow.com](https://cloudaiworkflow.com) · 📍 Kolkata, India
 
 > Most of my work lives in private repos. Happy to walk through the code on request.
+
 
