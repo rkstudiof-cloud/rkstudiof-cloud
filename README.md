@@ -56,7 +56,7 @@ Picks the model, effort and delegation for every message to cut credit use witho
   <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,nodejs,supabase,postgres,azure,gcp,tailwind,git&theme=dark" alt="Tech stack">
 </p>
 
-**AI:** Claude & OpenAI APIs · Model Context Protocol (MCP) · Claude Code plugins & skills
+**AI:** Claude & OpenAI APIs · Model Context Protocol (MCP) · Claude Code plugins & skills<br>
 **Business systems:** ERPNext · Odoo · BigQuery
 
 ## 📫 Get in touch
